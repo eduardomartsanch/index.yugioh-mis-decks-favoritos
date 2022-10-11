@@ -1,0 +1,45 @@
+
+body {
+  background-image: url(Mekk-kinght. Crusadia.Avramax.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 3rem;
+  color: blue;
+}
+
+.btn-0 {
+position: top;
+  top:0px;
+  bottom: 100px;
+  right:;
+  left: 1495px;
+}
+
+.btn-1 {
+  position: relative;
+  top:;
+  bottom:;
+  right:;
+  left: 35px;
+}
+
+.btn-2 {
+  position: relative;
+  top:;
+  bottom:;
+  right:;
+  left: 60px;
+}
+
+.btn-3 {
+  position: relative;
+  top:;
+  bottom:;
+  right:;
+  left: 50px;
+}
+

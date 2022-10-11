@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8">
+   <title>Mis decks favoritos de Yugioh</title>
+   <meta name="description" content="Free Web tutorials">
+   <meta name="keywords" content="HTML, CSS, JavaScript">
+   <meta name="author" content="EduardoMartSanch">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+   <link rel="stylesheet" type="text/css" href="style/style.css yugioh">
+   
+  <style>
+ table, th, td {
+  border: 1px solid black;
+}
+ </style>
+ 
+ 
+ </head>
+ 
+ <body background="img/Mekk-knight. Crusadia.Avramax.jpg">
+ 
+  <div>
+    <h1>Mis decks favoritos de YUGIOH.</h1>
+    
+    <img class="btn-0" src="img/Hot Red Dragon Archfiend Abyss.png" 
+   alt="imagen de Hot Red Dragon Archfiend Abyss" width="55px" height="55px">
+   
+  <h2>Odd-Eyes Endymion(Deck fun bastante fuerte).</h2>
+  
+  <br>
+ 
+    <p>Es un basado en el robo de cartas para despues realizar la invocacion de Monstuos pendulo<br>
+    donde su objetivo es invocar a ODD-EYES VORTEX DRAGON con la ayuda de la carta principal<br> 
+    ODD-EYES ARC PENDULUM DRAGON y apoyandose con la ayuda de el arqueotipo ENDYMION<br>
+    el cual te ayudara a convocar mas monstruos que puedan ayudarte a generar control sobre<br>
+    las cartas de el oponente y permitiendote invocar monstruos de enlaze los cuales podran<br>
+    abrir zonas para invocar monstruos pendulo del extradeck para poder realizar invocaciones<br>
+    de enlaze mas altas accediendo asi a monstruo de enlaze 3 y 4.<br>
+    <br>
+    Este deck tambien te permite realizar invocaciones por xyz como ODD-EYES ABSOLUTE<br> 
+    DRAGON y realizar invocaciones por synchronia con la ayuda de monstruos como<br> 
+    Performapal Odd-Eyes Synchron(el cual no es ta en mi version de este deck) para<br> 
+    realizar la invocacion de ODD-EYES METEORBURST DRAGON lo que lo hace un<br>
+    deck casi completo donde su propio arqueotipo te permite realizar todos los metodos<br>
+    de invocaion (Ritual, Fusion, Synchronia, XYZ, PENDULO).</p>
+  
+  <br>
+ 
+    <img src="img/Deck odd-eyes endymion.png" alt="imagen de un deck Odd-Eyes Endymion">
+  
+   <br>
+   
+    <h3>Receta del deck.</h3>
+   
+   <br>
+   
+  <div class="allcards">
+   <table>
+     <tr>
+       <th>MONSTRUOS X24</th>
+       <th>MAGIAS Y TRAMPAS X16</th>
+       <th>EXTRA DECK X15</th>
+       <th>SIDE DECK x15</th>
+      </tr>
+      
+     <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/Odd-Eyes_Arc_Pendulum_Dragon"
+           target="blank">ODD-EYES ARC PENDULUM DRAGON</a> x3</td>
+       <td><a href="https://yugioh.fandom.com/wiki/Spiral_Flame_Strike"
+           target="blank">SPIRAL FLAME STRIKE</a> x3</td>
+       <td><a href="https://yugioh.fandom.com/wiki/Odd-Eyes_Vortex_Dragon"
+           target="blank">ODD-EYES VORTEX DRAGON x2</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       The_Winged_Dragon_of_Ra_-_Sphere_Mode" target="blank">
+          THE WINGED DRAGON OF RA - SPHERE MODE</a> x2</td>
+     </tr>
+     
+     <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/Odd-Eyes_Pendulum_Dragon"
+          target="blank">ODD-EYES PENDULUM DRAGON </a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Sky_Iris"
+          target="blank">SKY IRIS</a> X2</td>
+       <td><a href="https://yugioh.fandom.com/wiki/Performapal_Gatlinghoul"
+          target="blank">PERFORMAPAL GATLINGHOUL</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Lava_Golem?so=search"
+          target="blank">LAVA GOLEM</a> X2</td>
+     </tr>
+      
+     <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Odd-Eyes_Revolution_Dragon?so=search" target="blank">
+          ODD-EYES REVOLUTION DRAGON</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Duelist_Alliance_(card)"
+          target="blank">DUELIST ALLIANCE</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Starving_Venom_Fusion_Dragon" target="blank">
+          STARVING VENOM FUSION DRAGON</a></td>
+       <td><a href="https://yugioh.fandom.com/
+       wiki/Gadarla,_the_Mystery_Dust_Kaiju?so=search" target="blank">
+          GADARLA THE MYSTERY DUST KAIJU</a> X2</td>
+     </tr>
+    
+     <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Performapal_Odd-Eyes_Dissolver?so=search" target="blank">
+          PERFORMAPAL ODD-EYES DISOLVER</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Allure_of_Darkness"
+          target="blank">ALLURE OF DARKNESS</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Odd-Eyes_Wing_Dragon?so=search" target="blank">
+          ODD-EYES WING DRAGON</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Trap_Eater?so=search"
+          target="blank">TRAP EATER</a> X2</td>
+     </tr>
+      
+     <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/Odd-Eyes_Persona_Dragon"
+          target="blank">ODD-EYES PERSONA DRAGON</a> x2</td>
+       <td><a href="https://yugioh.fandom.com/wiki/Summoner%27s_Art"
+          target="blank">SUMMONER'S ART</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Odd-Eyes_Absolute_Dragon"
+          target="blank">ODD-EYES ABSOLTE DRAGON</a></td>
+       <td><a href="https://yugioh.fandom.com/
+       wiki/Dark_Ruler_No_More?so=search"
+          target="blank">DARK RULER NO MORE</a> X2</td>
+     </tr>
+     
+      <tr>
+       <td><a href="https://yugioh.fandom.com/
+       wiki/Odd-Eyes_Pendulumgraph_Dragon?so=search"
+          target="blank">ODD-EYES PENDULUMGRAPH DRAGON</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Terraforming"
+          target="blank">TERRAFORMING</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Evilswarm_Nightmare?so=search"
+          target="blank">EVILSWARM NIGHTMARE</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Mystical_Space_Typhoon?so=search"
+          target="blank">MYSTICAL SPACE TYPHOON</a></td>
+      </tr>
+      
+     <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Performapal_Skullcrobat_Joker" target="blank">
+          PERFORMAPAL SKULLCROBAT JOKER</a> X2</td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Upstart_Goblin?so=search" target="blank">
+         UPSTART GOBLIN</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Beyond_the_Pendulum?so=search" target="blank">
+         BEYOND THE PENDULUM</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Twin_Twisters?so=search" target="blank">
+          TWIN TWISTERS</a></td>
+      </tr>
+     
+      <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Supreme_King_Dragon_Darkwurm?so=search" target="blank">
+          SUPREMEKING DRAGON DARKWURM</a> X2</td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Foolish_Burial?so=search" target="blank">
+          FOOLISH BURIAL</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Proxy_F_Magician?so=search" target="blank">
+          PROXY F MAGICIAN</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Evenly_Matched?so=search" target="blank">
+          EVENLY MATCHED</a> X2</td>
+      </tr>
+      
+      <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Chronograph_Sorcerer?so=search" target="blank">
+          CHRONOGRAPH SORCERER</a> x3</td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Dragon_Shrine?so=search" target="blank">
+          DRAGON SHRINE</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Hieratic_Seal_of_the_Heavenly_Spheres" target="blank">
+         HIERATIC SEAL OF THE HEAVENLY SPHERES</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Meowseclick" 
+       target="blank">MEOWSECLICK</a></td>
+      </tr>
+     
+      <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/Timegazer_Magician?so=search"
+          target="blank">TIMEGAZER MAGICIAN</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Called_by_the_Grave"
+          target="blank">CALLED BY THE GRAVE</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/I:P_Masquerena?so=search"
+          target="blank">I:P MASQUERENA</a></td>
+      </tr>
+      
+      <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Aether,_the_Evil_Empowering_Dragon" target="blank">
+          AETHER, THE EVIL EMPOWERING DRAGON</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Igknight_Reload?so=search"
+          target="blank">IGKNIGHT RELOAD</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Knightmare_Unicorn?so=search"
+          target="blank">KNIGHTMARE UNICORN</a></td>
+      </tr>
+     
+      <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Supreme_King_Gate_Zero?so=search" target="blank">
+          SUPREME KING GATE ZERO</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Spell_Power_Mastery?so=search"
+          target="blank">SPELL POWER MASTERY</a> x2</td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Unchained_Abomination?so=search" target="blank">UNCHAIN ABOMINATION</td>
+      </tr>
+      
+       <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/Servant_of_Endymion?so=search"
+          target="blank">SERVANT OF ENDYMION</a></td>
+       <td>-</td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Apollousa,_Bow_of_the_Goddess?so=search" target="blank">
+          APOLLOUSA BOW OF THE GODDESS</a></td>
+      </tr>
+      
+      <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Endymion,_the_Mighty_Master_of_Magic?so=search" target="blank">
+          ENDYMION, THE MIGHTY MASTER OF MAGIC</a> X2</td>
+       <td>-</td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Mekk-Knight_Crusadia_Avramax?so=search" target="blank">
+          MEKK-KNIGHT CRUSADIA AVRAMAX</a></td>
+      </tr>
+     
+      <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Mythical_Beast_Jackal_King?so=search" target="blank">
+          MYTHICAL BEAST JACKAL KING</a></td>
+       <td>-----</td>
+       <td>-----</td>
+      </tr>
+      
+      <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Magical_Abductor?so=search" target="blank">MAGICAL ABDUCTOR</a></td>
+       <td>-----</td>
+       <td>-----</td>
+      </tr>
+     </table>
+   </div>
+   
+      <br>
+     
+     <h2>Deck Ciberso(FUN).</h2>
+     
+      <br>
+      
+     <p> Es un deck basado en la invoccion de monstruos enlace con el objetivo de invocar<br>
+      a el monstruo ciberso de enlce 6 THE ARRIVAL CYBERSE @IGNISTER con la ayuda de las<br>
+      cartas code; cynet codec, cynet Optimization, Cynet Mining, Micro Coder, Code Generator<br>
+      y Parallel Exceed para ir agregando los materiales para realizar las invocaciones por<br>
+      enlace y contar con muchos monstruos enlaze en el cementerio para poder invocar a<br> 
+      AVIDA, REBUILDER OF WORLDS el cual se encargara de barajar los monstruos en el campo,<br>
+      cementerio y baneados de ambos jugdores teniendo tambien la opcion de invocar a FIREWALL<br> 
+      DRAGON DARKFLUID.<br>
+       <br>
+      Este deck te permite la invocacion de monstruos RITUAL, FUSION, SYNCHRONIA<br>
+      Y XYZ los cuales ayudaran a invocar mas monstruos y almismo tiempo le ayudaran a tu<br>
+      FIREWALL DRAGON DARKFLUID y a THE ARRIVAL CYBERSE @IGNISTER a ganar mas ataque para<br>
+      despues ganar el duelo.</p>
+     
+     <br>
+     
+     <img src="img/cyberse deck.png" alt="imagen de un deck ciberso">
+     
+     <br>
+     
+     <h3>Receta del deck.</h3>
+      
+      <br>
+       
+    <div class="allcards">
+     <table>
+      <tr>
+       <th>MONSTRUOS X23</th>
+       <th>MAGIAS Y TRAMPAS X17</th>
+       <th>EXTRA DECK X15</th>
+       <th>SIDE DECK x15</th>
+      </tr>
+      
+      <tr>
+      <td><a href="https://yugioh.fandom.com/wiki/Avida,_Rebuilder_of_Worlds"
+         target="blank">AVIDA, REBUILDER OF WORLDS</a></td>
+      <td><a href="https://yugioh.fandom.com/wiki/One_for_One"
+         target="blank">ONE FOR ONE</a></td>
+      <td><a href="https://yugioh.fandom.com/wiki/Diplexer_Chimera?so=search"
+         target="blank">DIPLEX CHIMERA</a></td>
+      <td><a href="https://yugioh.fandom.com/wiki/Parallel_eXceed"
+         target="blank">PARALLEL EXCEED</a></td>
+      </tr>
+     
+      <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/Parallel_eXceed"
+          target="blank">PARALLEL EXCEED</a> X2</td>
+       <td><a href="https://yugioh.fandom.com/wiki/Cynet_Mining?so=search"
+          target="blank">CYNET MINING</a> X3</td>
+       <td><a href="https://yugioh.fandom.com/wiki/Cyberse_Integrator"
+          target="blank">CYBERSE INTEGRATOR</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Lady_Debug?so=search"
+          target="blank">LADY DEBUG</a></td>
+      </tr>
+      
+      <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/Scrypton?so=search"
+          target="blank">SCRYPTON</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Instant_Fusion"
+          target="blank">INSTANT FUSION</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Light_Dragon_@Ignister?so=search" target="blank">LIGHT DRAGON @IGNISTER</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Firewall_Guardian?so=search" target="blank">FIREWALL GARDIAN</a></td>
+      </tr>
+    
+      <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/Lady_Debug?so=search"
+          target="blank">LADY DEBUG</a> X2</td>
+       <td><a href="https://yugioh.fandom.com/wiki/Foolish_Burial?so=search"
+          target="blank">FOOLISH BURIAL</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       The_Arrival_Cyberse_@Ignister?so=search" target="blank">
+          THE ARRIVAL CYBERSE @IGNISTER</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Backup_Secretary?so=search" target="blank">BACKUP SECRETARY</a></td>
+      </tr>
+      
+      <tr>
+      <td><a href="https://yugipedia.com/wiki/Nibiru,_the_Primal_Being"
+          target="blank">NIBIRU, THE PRIMAL BEING</a>X2</td>
+       <td><a href="https://yugipedia.com/wiki/Monster_Reborn"
+          target="blank">MONSTER REBORN</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Firewall_Dragon_Darkfluid?so=search" target="blank">
+          FIREWALL DRAGON DARKFLUID</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Link_into_the_VRAINS!"
+          target="blank">LINK INTO THE VRAINS!</a></td>
+      </tr>
+     
+      <tr>
+       <td><a href="https://yugipedia.com/wiki/Cyberse_Gadget"
+          target="blank">CYBERSE GADGET</a> X2</td>
+       <td><a href="https://yugipedia.com/wiki/One-Time_Passcode"
+          target="blank">ONE-TIME PASSCODE</a></td>
+       <td><a href="https://yugipedia.com/wiki/Excode_Talker"
+          target="blank">EXCODE TALKER</a></td>
+       <td><a href="https://yugipedia.com/wiki/Micro_Coder"
+          target="blank">MICRO CODER</a></td>
+      </tr>
+      
+        <tr>
+       <td><a href="https://yugipedia.com/wiki/Code_Generator"
+          target="blank">CODE GENERATOR</a> X2</td>
+       <td><a href="https://yugipedia.com/wiki/World_Legacy_Succession"
+          target="blank">WORLD LEGACY SUCCESSION</a></td>
+       <td><a href="https://yugipedia.com/wiki/Transcode_Talker"
+          target="blank">TRANSCODE TALKER</a></td>
+       <td><a href="https://yugipedia.com/wiki/Cyberse_Quantum_Dragon"
+          target="blank">CYBERSE QUANTUM DRAGON</a></td>
+      </tr>
+     
+      <tr>
+       <td><a href="https://yugipedia.com/wiki/Sea_Archiver"
+          target="blank">SEA ARCHIVER</a></td>
+       <td><a href="https://yugipedia.com/wiki/Cynet_Ritual"
+          target="blank">CYNET RITUAL</a></td>
+       <td><a href="https://yugipedia.com/wiki/Shootingcode_Talker"
+          target="blank">SHOOTINGCODE TALKER</a></td>
+       <td><a href="https://yugipedia.com/wiki/Mekk-Knight_Crusadia_Avramax"
+          target="blank">MEEK-KINGT CRUSADIA AVRAMAX</a></td>
+      </tr>
+      
+      <tr>
+       <td><a href="https://yugipedia.com/wiki/Prohibit_Snake"
+          target="blank">PROHIBIT SNAKE</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Called_by_the_Grave"
+          target="blank">CALLED BY THE GRAVE</a></td>
+       <td><a href="https://yugipedia.com/wiki/Code_Talker"
+          target="blank">CODE TALKER</a></td>
+       <td><a href="https://yugipedia.com/wiki/Proxy_F_Magician"
+          target="blank">PROXY F MAGICIAN</a></td>
+      </tr>
+     
+      <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/Cyberse_Converter"
+          target="blank">CYBERSE CONVERTER</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Twin_Twisters?so=search"
+          target="blank">TWIN TWISTERS</a>x2</td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Code_Talker_Inverted?so=search" target="blank">CODE TALKER INVERTED</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Cyberse_Wicckid?so=search" 
+          target="blank">CYBERSE WICCKID</a></td>
+      </tr>
+      
+      <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/Link_Infra-Flier?so=search"
+          target="blank">LINK INFRA-FLIER</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Link_into_the_VRAINS!"
+          target="blank">LINK INTO THE VRAINS!</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Splash_Mage?so=search"
+          target="blank">SPLASH MAGICIAN</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Infinite_Impermanence?so=search" target="blank">INFINITE IMPERMANENCE</a> X2</td>
+      </tr>
+     
+      <tr>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Knightmare_Corruptor_Iblee?so=search" target="blank">
+          KINGHTMARE CORRUPTOR IBLEE</a></td>
+       <td><a href="https://yugipedia.com/wiki/Cynet_Codec"
+          target="blank">CYNET CODEC</a> X2</td>
+       <td><a href="https://yugioh.fandom.com/wiki/Cyberse_Witch?so=search"
+          target="blank">CYBERSE WITCH</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Crackdown?so=search"
+          target="blank">CRACKDOWN</a></td>
+      </tr>
+      
+      <tr>
+       <td><a href="https://yugipedia.com/wiki/Micro_Coder"
+          target="blank">MICRO CODER</a> X2</td>
+       <td><a href="https://yugioh.fandom.com/
+       wiki/Dark_Ruler_No_More?so=search"
+          target="blank">DARK RULER NO MORE</a></td>
+       <td><a href="https://yugipedia.com/wiki/Talkback_Lancer"
+          target="blank">TALKBACK LANCER</a></td>
+       <td><a href="https://yugipedia.com/wiki/Cynet_Conflict"
+          target="blank">CYNET CONFLICT</a></td>
+      </tr>
+      
+      <tr>
+       <td><a href="https://yugipedia.com/wiki/Cyberse_Synchron"
+          target="blank">CYBERSE SYNCHRON</a></td>
+       <td>-----</td>
+       <td><a href="https://yugipedia.com/wiki/Link_Disciple"
+          target="blank">LINK DISCIPLE</a></td>
+       <td><a href="https://yugipedia.com/wiki/
+       Cursed_Seal_of_the_Forbidden_Spell" target="blank">
+          CURSED SEAL OF THE FORBIDDEN SPELL</a></td>
+      </tr>
+     
+      <tr>
+       <td><a href="https://yugipedia.com/wiki/Dotscaper"
+          target="blank">DOT SCAPER</a></td>
+       <td>-----</td>
+       <td><a href="https://yugipedia.com/wiki/Linkuriboh"
+          target="blank">LINKURIBOH</a></td>
+      </tr>
+      
+      <tr>
+       <td><a href="https://yugipedia.com/wiki/Formud_Skipper"
+          target="blank">FORMUD SKIPPER</a></td>
+       <td>-----</td>
+       <td>-----</td>
+      </tr>
+      
+      <tr>
+       <td><a href="https://yugipedia.com/wiki/Cyberse_Magician"
+          target="blank">CYBERSE MAGICIAN</a></td>
+       <td>-----</td>
+       <td>-----</td>
+      </tr>
+     </table>   
+   </div>
+     
+     <br>
+     
+     <h2>Resonador(Deck fun).</h2>
+     
+     <br>
+     
+      <p>Es un deck basado en la invocacion de monstruos tipo dragon de sincronia<br>
+      atributo obscuro con la ayuda de las cartas de resonadores los cuales te<br>
+      permiten invocar mas monstruos o se invocan si controlas monstruos de sincronia<br>
+      para realizar la invocacion de sincronia de monstruos mass fuertes siendo RED<br>
+      SUPERNOVA DRAGON, HOT RED DRAGON ARCHFIEN KING OF CALAMITIES,<br>
+      RED NOVA DRAGON, HOT RED DRAGON ARCHFIEND BANE, HOT RED DRAGON<br>
+      ARCHFIEND ABYSS y TYRANT RED DRAGON ARCHFIEND los montruos mas<br>
+      fuerte para invocar para asi terminar con los puntos de vida del oponente.<br>
+      <br>
+      Red Rising Dragon es su monstruo principal ya que con este monstruo asciendes<br>
+      a invocaciones de monstruo de mayor nivel como los monstruo antes mencionados.
+      
+      </p>
+     <br>
+     
+      <img src="img/resonator deck.png" alt="imagen de un deck resonador">
+      
+      <br>
+      
+      <h3>Receta del deck.</h3>
+      
+      <br>
+      
+     <div class="allcards">
+      <table>
+      <tr>
+       <th>MONSTRUOS X22</th>
+       <th>MAGIAS Y TRAMPAS X18</th>
+       <th>EXTRA DECK X15</th>
+       <th>SIDE DECK x15</th>
+      </tr>
+      
+      <tr>
+       <td><a href="https://yugipedia.com/wiki/Nibiru,_the_Primal_Being"
+          target="blank">NIBIRU, THE PRIMAL BEING</a> x2</td>
+       <td><a href="https://yugioh.fandom.com/wiki/Pot_of_Avarice" target="blank">POT OF AVARICE</a></td>
+       <td><a href="https://yugipedia.com/wiki/
+       Hot_Red_Dragon_Archfiend_King_Calamity" target="blank">
+          HOT RED DRAGON ARCHFIEN KING CALAMITY</a></td>
+       <td><a href="https://yugipedia.com/wiki/Lava_Golem"
+          target="blank">LAVA GOLEM</a> x2</td>
+      </tr>
+     
+      <tr>
+       <td><a href="https://yugipedia.com/wiki/Wandering_King_Wildwind"
+          target="blank">WANDERING KING WILDWIND</a> X3</td>
+       <td><a href="https://yugipedia.com/wiki/Resonator_Engine"
+          target="blank">RESONATOR ENGINE</a></td>
+       <td><a href="https://yugipedia.com/wiki/Red_Supernova_Dragon"
+          target="blank">RED SUPERNOVA DRAGON</a></td>
+       <td><a href="https://yugipedia.com/wiki/Stygian_Street_Patrol"
+          target="blank">STYGIAN STRRET PATROL</a></td>
+      </tr>
+      
+      <tr>
+       <td><a href="https://yugipedia.com/wiki/Red_Sprinter"
+          target="blank">RED SPRINTER</a> X2</td>
+       <td><a href="https://yugipedia.com/wiki/Harpie%27s_Feather_Duster"
+          target="blank">HARPIE'S FEATHER DUSTER</a></td>
+       <td><a href="https://yugipedia.com/wiki/Red_Nova_Dragon"
+          target="blank">RED NOVA DRAGON</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/
+       Dark_Ruler_No_More?so=search" target="blank">DARK RULER NO MORE</a> X3</td>
+      </tr>
+    
+      <tr>
+       <td><a href="https://yugipedia.com/wiki/Witch_of_the_Black_Forest"
+          target="blank">WITCH OF THE BLACK FOREST</a> X3</td>
+       <td><a href="https://yugipedia.com/wiki/Resonator_Call"
+          target="blank">RESONATOR CALL</a> X3</td>
+       <td><a href="https://yugipedia.com/wiki/Tyrant_Red_Dragon_Archfiend"
+          target="blank">TYRANT RED DRAGON ARCHFIEND</a></td>
+       <td><a href="https://yugipedia.com/wiki/Evenly_Matched"
+          target="blank">EVENLY MATCHED</a> X3</td>
+      </tr>
+      
+       <tr>
+       <td><a href="https://yugipedia.com/wiki/Creation_Resonator"
+          target="blank">CREATION RESONATOR</a></td>
+       <td><a href="https://yugipedia.com/wiki/Foolish_Burial_Goods"
+          target="blank">FOOLISH BURIAL GOODS</a></td>
+       <td><a href="https://yugipedia.com/wiki/Hot_Red_Dragon_Archfiend_Bane"
+          target="blank">HOT RED DRAGON ARCHFIEND BANE</a></td>
+       <td><a href="https://yugipedia.com/wiki/Synchro_Call"
+          target="blank">SYNCHRO CALL</a> X2</td>
+      </tr>
+     
+      <tr>
+       <td><a href="https://yugipedia.com/wiki/Crimson_Resonator"
+          target="blank">CRIMSON RESONATOR</a> X3</td>
+       <td><a href="https://yugipedia.com/wiki/Monster_Reborn"
+          target="blank">MONSTER REBORN</a></td>
+       <td><a href="https://yugipedia.com/wiki/Hot_Red_Dragon_Archfiend_Abyss"
+          target="blank">HOT RED DRAGON ARCHFIEND ABYSS</a> X2</td>
+       <td><a href="https://yugipedia.com/wiki/Performapal_Popperup"
+          target="blank">PERFORMAPAL POPPERUP</a></td>
+      </tr>
+      
+        <tr>
+       <td><a href="https://yugipedia.com/wiki/Red_Resonator"
+          target="blank">RED RESONATOR</a> X3</td>
+       <td><a href="https://yugipedia.com/wiki/Red_Resonator"
+          target="blank">RESONATOR COMMAND</a> X3</td>
+       <td><a href="https://yugipedia.com/wiki/Void_Ogre_Dragon"
+          target="blank">VOID OGRE DRAGON</a></td>
+       <td><a href="https://yugipedia.com/wiki/Return_of_the_Dragon_Lords"
+          target="blank">RETURN OF THE DRAGON LORDS</a></td>
+      </tr>
+     
+      <tr>
+       <td><a href="https://yugipedia.com/wiki/Chain_Resonator"
+          target="blank">CHAIN RESONATOR</a></td>
+       <td><a href="https://yugioh.fandom.com/wiki/Called_by_the_Grave"
+          target="blank">CALLED BY THE GRAVE</a></td>
+       <td><a href="https://yugipedia.com/wiki/Scarlight_Red_Dragon_Archfiend"
+          target="blank">SCARLIGHT RED DRAGON ARCHFIEND</a></td>
+       <td><a href="https://yugipedia.com/wiki/Psychic_Eraser_Laser"
+          target="blank">PSYCHIC ERASER LASER</a></td>
+      </tr>
+      
+      <tr>
+       <td><a href="https://yugipedia.com/wiki/Synkron_Resonator"
+          target="blank">SYNKRON RESONATOR</a> x2</td>
+       <td><a href="https://yugipedia.com/wiki/Twin_Twisters"
+          target="blank">TWIN TWISTER</a></td>
+       <td><a href="https://yugipedia.com/wiki/Hot_Red_Dragon_Archfiend"
+          target="blank">HOT RED DRAGON ARCHFIEND</a></td>
+       <td><a href="https://yugipedia.com/wiki/Scrap-Iron_Signal"
+          target="blank">IRON-SCRAP SIGNAL</a></td>
+      </tr>
+     
+      <tr>
+       <td><a href="https://yugipedia.com/wiki/Effect_Veiler"
+          target="blank">EFFECT VEILER</a> X2</td>
+       <td><a href="https://yugipedia.com/wiki/
+       D.D.R._-_Different_Dimension_Reincarnation" target="blank">
+          D.D.R. - DIFFERENT DIMENSION REINCARNATION</a></td>
+       <td><a href="https://yugipedia.com/wiki/Ancient_Pixie_Dragon"
+          target="blank">ANCIENT PIRXIE DRAGON</a></td>
+       <td>-----</td>
+      </tr>
+      
+        <tr>
+       <td>-----</td>
+       <td><a href="https://yugipedia.com/wiki/Red_Reign"
+          target="blank">RED REIGN</a> X2</td>
+       <td><a href="https://yugipedia.com/wiki/Red_Rising_Dragon"
+          target="blank">RED RISING DRAGON</a> X3</td>
+      </tr>
+     
+      <tr>
+       <td>-----</td>
+       <td><a href="https://yugipedia.com/wiki/Infinite_Impermanence"
+          target="blank">INFINITE IMPERMANENCE</a> x2</td>
+       <td><a href="https://yugipedia.com/wiki/Samsara,_Dragon_of_Rebirth"
+          target="blank">SAMSARA, DRAGON OF REBIRTH</a></td>
+      </tr>
+      
+     </table>
+    </div>
+   
+     <br>
+     
+   <div>
+     <p>Si quieres armar tu deck en internet y poner tus estrategias a prueba contra<br>
+     duelistas de otros paises entra a Dueling Nexus o a Dueling Book y registrate.<br>
+     <br>
+     ¡¡¡Es hora del duelo!!!</p>
+     
+    <br>
+    
+     <a class="btn-1" href="https://duelingnexus.com" 
+     target="blank">
+     <img class="btn-a" src="img/Dueling Nexus.jpg" 
+     alt="imagen de Dueling Nexus.com"
+     width="95px" height="50px">
+     </a>
+     
+     <a class="btn-2" href="https://www.duelingbook.com/" 
+     target="blank">
+     <img class="btn-a" src="img/Dueling Book.jpg"
+     alt="imagen de Deling Book.com" 
+     width="95px" height="50px">
+     </a>
+     
+     <br>
+     
+     <br>
+     
+     <p>También puedes checar la pagina de konami para informarte sobre los productos <br> 
+     que estan por llegar, futuros eventos, la lista de cartas prohibidas, noticias y mas.</p>
+     
+     <br>
+     
+     <a class="btn-3" href="https://www.yugioh-card.com/lat-am/" 
+     target="blank">
+     <img src="img/yugioh logo.png" 
+     alt="Logo de yugioh que te permite ir a yugioh.card tcg"
+     width="95px" height="50">
+     </a>
+     
+   </div>
+     
+ </body>
+</html>
