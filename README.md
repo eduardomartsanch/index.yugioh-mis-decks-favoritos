@@ -1,1 +1,1 @@
-# index.yugioh-mis-decks-favoritos
+yugioh-mis-decks-favoritos
